@@ -2,7 +2,7 @@
 A python program that solves sudoku puzzles.
 
 I use simple set arithmetic to preprocess the puzzle and find possible candidates for each cell,
-and I use backtracking to solve the puzzle.
+and I use backtracking to solve the puzzle. I also use a double-ended queue for traversal.
 
 Possible improvements:
   - Support variable sized boards (currently only 9x9)
