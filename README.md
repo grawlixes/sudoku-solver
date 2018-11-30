@@ -9,4 +9,4 @@ Possible improvements:
   - Support variable sized boxes (currently only 3x3)
   - GUI (definitely not going to happen lol)
   
-This is from LeetCode. https://leetcode.com/problems/sudoku-solver/
+This challenge is from LeetCode; the solution is my own. https://leetcode.com/problems/sudoku-solver/
